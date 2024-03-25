@@ -4,7 +4,7 @@
 
 [![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-augusto-79a5612b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor_a.r.o/)
-[![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-augusto-79a5612b6/)
+
 
 ![VictorVryDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVryDev&show_icons=true&theme=Gradient)
 
