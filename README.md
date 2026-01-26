@@ -7,7 +7,7 @@ Busco oportunidade como desenvolvedor júnior/estagiário para aplicar minhas ha
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VryDeveloper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&cache_seconds=3600" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VryDeveloper&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VryDeveloper&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&cache_seconds=3600" height="150" />
 </div>
 
