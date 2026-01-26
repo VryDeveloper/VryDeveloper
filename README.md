@@ -13,24 +13,6 @@ Busco oportunidade como desenvolvedor júnior/estagiário para aplicar minhas ha
 
 ---
 
-<h3>Quem sou eu</h3>
-<p>
-Sou desenvolvedor com experiência prática em projetos utilizando C#, Java Web, Node.js e desenvolvimento front-end. Já implementei CRUDs completos, autenticação, integração com banco de dados e organização em camadas seguindo padrão MVC.
-</p>
-
-<p>
-Não busco apenas fazer o código funcionar — busco entender arquitetura, organização, legibilidade e manutenção. Meu objetivo é crescer profissionalmente e me tornar um engenheiro de software sólido.
-</p>
-
-<ul>
-  <li>Experiência prática com projetos completos</li>
-  <li>Foco em organização, arquitetura e boas práticas</li>
-  <li>Facilidade em aprender novas tecnologias</li>
-  <li>Compromisso com evolução técnica contínua</li>
-</ul>
-
----
-
 <h3>Stack Tecnológica</h3>
 
 <div align="center">
@@ -52,6 +34,24 @@ Não busco apenas fazer o código funcionar — busco entender arquitetura, orga
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
 </div>
+
+---
+
+<h3>Quem sou eu</h3>
+<p>
+Sou desenvolvedor com experiência prática em projetos utilizando C#, Java Web, Node.js e desenvolvimento front-end. Já implementei CRUDs completos, autenticação, integração com banco de dados e organização em camadas seguindo padrão MVC.
+</p>
+
+<p>
+Não busco apenas fazer o código funcionar — busco entender arquitetura, organização, legibilidade e manutenção. Meu objetivo é crescer profissionalmente e me tornar um engenheiro de software sólido.
+</p>
+
+<ul>
+  <li>Experiência prática com projetos completos</li>
+  <li>Foco em organização, arquitetura e boas práticas</li>
+  <li>Facilidade em aprender novas tecnologias</li>
+  <li>Compromisso com evolução técnica contínua</li>
+</ul>
 
 ---
 
