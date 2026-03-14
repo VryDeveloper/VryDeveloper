@@ -1,19 +1,19 @@
 <h2 align="left">Hello World! Victor A.R.O. Here!</h2>
 
-<h3 align="left">Desenvolvedor em evolução constante | Focado em Back-end, Arquitetura e Boas Práticas</h3>
+<h3 align="left">Constantly evolving developer | Focused on Back-end, Architecture and Best Practices</h3>
 
 <p align="left">
-Busco oportunidade como desenvolvedor júnior/estagiário para aplicar minhas habilidades em projetos reais, evoluir tecnicamente e contribuir com times que valorizam código limpo, organização e aprendizado contínuo.
+Looking for a junior developer or internship opportunity to apply my skills in real-world projects, grow technically and contribute to teams that value clean code, organization and continuous learning.
 </p>
 
 <div align="center">
   <img src="https://github-readme-stats-eta-five-81.vercel.app/api?username=VryDeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats-eta-five-81.vercel.app/api/top-langs?username=VryDeveloper&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&cache_seconds=3600" height="150" />
+  <img src="https://github-readme-stats-eta-five-81.vercel.app/api/top-langs?username=VryDeveloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&cache_seconds=3600" height="150" />
 </div>
 
 ---
 
-<h3>Stack Tecnológica</h3>
+<h3>Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
@@ -37,50 +37,50 @@ Busco oportunidade como desenvolvedor júnior/estagiário para aplicar minhas ha
 
 ---
 
-<h3>Quem sou eu</h3>
+<h3>About Me</h3>
 <p>
-Sou desenvolvedor com experiência prática em projetos utilizando C#, Java Web, Node.js e desenvolvimento front-end. Já implementei CRUDs completos, autenticação, integração com banco de dados e organização em camadas seguindo padrão MVC.
+I'm a developer with hands-on experience in projects using C#, Java Web, Node.js and front-end development. I've built complete CRUDs, authentication systems, database integrations and layered architectures following the MVC pattern.
 </p>
 
 <p>
-Não busco apenas fazer o código funcionar — busco entender arquitetura, organização, legibilidade e manutenção. Meu objetivo é crescer profissionalmente e me tornar um engenheiro de software sólido.
+I don't just aim to make code work — I care about architecture, organization, readability and maintainability. My goal is to grow professionally and become a solid software engineer.
 </p>
 
 <ul>
-  <li>Experiência prática com projetos completos</li>
-  <li>Foco em organização, arquitetura e boas práticas</li>
-  <li>Facilidade em aprender novas tecnologias</li>
-  <li>Compromisso com evolução técnica contínua</li>
+  <li>Hands-on experience with end-to-end projects</li>
+  <li>Focus on organization, architecture and best practices</li>
+  <li>Quick to learn new technologies</li>
+  <li>Committed to continuous technical growth</li>
 </ul>
 
 ---
 
-<h3>Projetos que demonstram minhas habilidades</h3>
+<h3>Projects That Showcase My Skills</h3>
 
 <ul>
-  <li><strong>CRUD em C# (Desafio Técnico)</strong><br>
-  Implementação completa seguindo padrão MVC, com validações, organização em camadas e foco em legibilidade e manutenção de código.</li>
+  <li><strong>C# CRUD (Technical Challenge)</strong><br>
+  Full implementation following the MVC pattern, with validations, layered architecture and a focus on code readability and maintainability.</li>
 
-  <li><strong>Sistema Fintech (Java Web)</strong><br>
-  Aplicação desenvolvida com Servlets, JSP, DAOs e banco Oracle, com autenticação, organização por camadas e integração completa entre front-end e back-end.</li>
+  <li><strong>Fintech System (Java Web)</strong><br>
+  Application built with Servlets, JSP, DAOs and Oracle database, featuring authentication, layered organization and full front-end/back-end integration.</li>
 
-  <li><strong>Jogo Web em JavaScript (projeto autoral)</strong><br>
-  Projeto focado em lógica de programação, DOM, experiência do usuário e evolução para multiplayer em tempo real.</li>
+  <li><strong>Web Game in JavaScript (personal project)</strong><br>
+  Project focused on programming logic, DOM manipulation, user experience and planned evolution toward real-time multiplayer.</li>
 
-  <li><strong>Projeto AlertaÁgua</strong><br>
-  Conceito de aplicativo com foco social, pensado para alertas em tempo real, rotas seguras e apoio em situações de emergência.</li>
+  <li><strong>AlertaÁgua Project</strong><br>
+  App concept with a social focus, designed for real-time alerts, safe routing and emergency response support.</li>
 </ul>
 
 ---
 
-<h3>Objetivo</h3>
+<h3>Goal</h3>
 <p>
-Atuar como desenvolvedor júnior ou estagiário em um ambiente que valorize crescimento técnico, colaboração e boas práticas de desenvolvimento, contribuindo ativamente com projetos reais e evoluindo junto com o time.
+To work as a junior developer or intern in an environment that values technical growth, collaboration and development best practices — actively contributing to real projects and evolving alongside the team.
 </p>
 
 ---
 
-<h3>Contato</h3>
+<h3>Contact</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/victor_a.r.o" target="_blank">
@@ -96,4 +96,4 @@ Atuar como desenvolvedor júnior ou estagiário em um ambiente que valorize cres
 
 ---
 
-<p align="center"><strong>Não estou apenas aprendendo programação. Estou construindo base sólida para me tornar um desenvolvedor de alto nível.</strong></p>
+<p align="center"><strong>I'm not just learning how to code. I'm building a solid foundation to become a high-level software developer.</strong></p>
