@@ -43,7 +43,7 @@ I'm a developer with hands-on experience in projects using C#, Java Web, Node.js
 </p>
 
 <p>
-I don't just aim to make code work — I care about architecture, organization, readability and maintainability. My goal is to grow professionally and become a solid software engineer.
+I don't just aim to make code work - I care about architecture, organization, readability and maintainability. My goal is to grow professionally and become a solid software engineer.
 </p>
 
 <ul>
