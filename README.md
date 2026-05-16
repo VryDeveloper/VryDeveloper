@@ -8,10 +8,9 @@ Looking for a junior developer or internship opportunity to apply my skills in r
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=VryDeveloper&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
+<img src="https://github-readme-stats.vercel.app/api?username=VryDeveloper&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&cache_seconds=86400" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VryDeveloper&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" height="150" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=VryDeveloper&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&cache_seconds=86400" />
 </div>
 
 ---
