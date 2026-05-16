@@ -10,6 +10,8 @@ Looking for a junior developer or internship opportunity to apply my skills in r
 
 <img src="https://github-profile-trophy.vercel.app/?username=VryDeveloper&theme=darkhub&no-frame=true&row=1&column=6" />
 
+<img src="https://streak-stats.demolab.com?user=VryDeveloper&theme=dark" />
+
 ---
 
 <h3>Tech Stack</h3>
